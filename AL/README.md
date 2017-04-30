@@ -3,9 +3,9 @@
 
 ### Assignment List
 1. 코딩 기본 쌓기
-> - due date: 2017. 4. 5.
-> - go [1차과제](./DataLangHW1.ipynb)
+   - due date: 2017. 4. 5.
+   - go [1차과제](./DataLangHW1.ipynb)
 2. 내가 좋아하는 음악, 영화(github 연습)
-> - due date: 2017. 4. 30.
-> - go [myfavorite.txt](./myfavorite.txt)
+   - due date: 2017. 4. 30.
+   - go [2차과제](./myfavorite.txt)
 
