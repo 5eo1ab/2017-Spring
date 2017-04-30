@@ -10,4 +10,5 @@
    - go [2차과제](./myfavorite.txt)
 
 ### Term Project
+**글로벌 주가지수 변동에 영향력이 큰 key player 찾기**  
 go [repository](https://github.com/5eo1ab/bro.py)
