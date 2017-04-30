@@ -3,9 +3,9 @@
 
 ### Assignment List
 1. Linear Regression
-- due date: 2017. 4. 17.
-- go [1차과제](./DataMining_Assignment01.ipynb)
+    - due date: 2017. 4. 17.
+    - go [1차과제](./DataMining_Assignment01.ipynb)
 2. Logistic Regression
-- due date: 2017. 5. 15.
-- go 2차과제
+   - due date: 2017. 5. 15.
+   - go 2차과제
 
