@@ -1,0 +1,8 @@
+# MS report files
+.docx
+.pptx
+
+# OS generated files
+.DS_Store*
+
+
