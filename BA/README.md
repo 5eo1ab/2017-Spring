@@ -30,6 +30,12 @@
 	- due date: 2017.5.3.
 	- go 6차과제
 
+#### Data Visualization
+7. 2016 US Presidential Election
+	- use date: 2017.5.24.
+	- go 7차과제
+
+
 ### Term Project
 ...
 
